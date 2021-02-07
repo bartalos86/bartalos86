@@ -12,7 +12,8 @@
 <img align="left" alt="HTML5" height="32" width="32" src="/icons/html.png" />
 <img align="left" alt="CSS3" height="32" width="32" src="/icons/css.svg" />
 <img align="left" alt="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" height="32" width="32" src="/icons/java.png" />
+<img align="left" alt="PHP" height="32" width="32" src="/icons/php.png" />
+<img align="left" alt="Java" height="32" width="16" src="/icons/java.png" />
 <img align="left" alt="C" height="32" width="32" src="/icons/c.png" />
 <img align="left" alt="C#" height="32" width="32" src="/icons/csharp.png" />
 
@@ -27,5 +28,5 @@
 <img align="left" alt=".NET" height="32" width="32" src="/icons/dotnet.png" />
 <img align="left" alt="Git" height="32" width="32" src="/icons/git.png" />
 
-
+### My projects
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartalos86)](https://github.com/anuraghazra/github-readme-stats) -->
