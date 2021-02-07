@@ -1,4 +1,4 @@
-### Hi 👋🏼, my name is Mark! 
+# Hi 👋🏼, my name is Mark! 
 
 ## I'm an university student at STU 👨🏼‍🎓
 - 🌿 I'm currently learning Vue.js
