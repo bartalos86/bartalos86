@@ -14,6 +14,8 @@
 <img align="left" alt="C" width="26px" src="/icons/c.png" />
 <img align="left" alt="C#" width="26px" src="/icons/csharp.png" />
 
+</br>
+
 ## Technologies and Stacks:
 <img align="left" alt="MongoDB" width="26px" src="/icons/mongodb.png" />
 <img align="left" alt="Vue.js" width="26px" src="/icons/vue.png" />
