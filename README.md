@@ -1,4 +1,4 @@
-### Hi 👋🏼, my name is Mark! 
+### Hi 👋🏼, my name is Mark!
 
 
 ## I'm an university student at STU 👨🏼‍🎓
@@ -28,5 +28,6 @@
 <img align="left" alt=".NET" height="32" width="32" src="/icons/dotnet.png" />
 <img align="left" alt="Git" height="32" width="32" src="/icons/git.png" />
 
-### My projects
+<!-- ### My projects
+- -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartalos86)](https://github.com/anuraghazra/github-readme-stats) -->
