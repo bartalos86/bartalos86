@@ -1,7 +1,7 @@
 ### Hi 👋🏼, my name is Mark!
 
 
-## I'm a senior university student at STU (Faculty of informatics and Information technologies) 👨🏼‍🎓
+## I'm a senior university student at STU (Informatics and Information technologies) 👨🏼‍🎓
 - 🌿 I'm currently learning Vue.js
 - 💻 Full-Stack Developer
 
