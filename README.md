@@ -1,9 +1,9 @@
 ### Hi 👋🏼, my name is Mark!
 
 
-## I'm an university student at STU 👨🏼‍🎓
+## I'm a senior university student at STU (Faculty of informatics and Information technologies) 👨🏼‍🎓
 - 🌿 I'm currently learning Vue.js
-- 🥅 Goal for 2021: Spend more time coding
+- 💻 Full-Stack Developer
 
 
 ### Languages and Tools:
