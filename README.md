@@ -2,7 +2,7 @@
 
 
 ## I'm a senior university student at STU (Informatics and Information technologies) 👨🏼‍🎓
-- 🌿 I'm currently learning Vue.js
+- 👨🏼‍🚀 I'm currently learning Next.js
 - 💻 I work as a Full-Stack Developer
 - 🧑‍💼 Open for part-time jobs
 
