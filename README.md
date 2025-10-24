@@ -1,7 +1,7 @@
 ### Hi 👋🏼, my name is Mark!
 
 
-## I'm a senior university student at STU (Informatics and Information technologies) 👨🏼‍🎓
+## I'm a master's university student at STU (Informatics and Information technologies) 👨🏼‍🎓
 - 👨🏼‍🚀 I'm currently learning Next.js
 - 💻 I work as a Full-Stack Developer
 - 🧑‍💼 Open for full-time/contract jobs
