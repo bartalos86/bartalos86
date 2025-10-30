@@ -9,11 +9,21 @@
 - 👨🏼‍🎓 Bachelors degree in Computer Science in the field of cryptgraphy and blockchain
 - 🧑‍💼 Open for full-time/contract jobs
 
-### Socials:
-<a href="www.linkedin.com/in/mark-bartalos"><img align="left" alt="Visual Studio Code" height="32" width="32" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" /></a>
-<a href="/cv/mark-bartalos-cv.pdf"><img align="left" alt="Visual Studio Code" height="32" width="32" src="/icons/download-cv.png" /></a>
-</br>
-</br>
+### Contact:
+<p align="left">
+  <a href="https://www.linkedin.com/in/mark-bartalos" target="_blank">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" width="32" height="32">
+  </a>
+    <a href="mailto:bartalos86@gmail.com" target="_blank">
+    <img alt="Mail" src="/icons/mail.png" width="32" height="32">
+  </a>
+</p>
+
+<p align="left">
+  <a href="/cv/mark-bartalos-cv.pdf">
+    <img alt="Download CV" src="/icons/download-cv.png" width="164" height="100">
+  </a>
+</p>
 
 
 ### Languages and Tools:
