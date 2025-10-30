@@ -3,10 +3,17 @@
 
 ## I'm a master's university student at Slovak University of Technology 👨🏼‍🎓
 
+
 - 📍 Based in Bratislava, Slovakia
 - 💻 Full-Stack Developer with 3+ years of professional experience
 - 👨🏼‍🎓 Bachelors degree in Computer Science in the field of cryptgraphy and blockchain
 - 🧑‍💼 Open for full-time/contract jobs
+
+### Socials:
+<a href="www.linkedin.com/in/mark-bartalos"><img align="left" alt="Visual Studio Code" height="32" width="32" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" /></a>
+<a href="/cv/mark-bartalos-cv.pdf"><img align="left" alt="Visual Studio Code" height="32" width="32" src="/icons/download-cv.png" /></a>
+</br>
+</br>
 
 
 ### Languages and Tools:
