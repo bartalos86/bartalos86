@@ -9,14 +9,12 @@
 - 👨🏼‍🎓 Bachelors degree in Computer Science in the field of cryptgraphy and blockchain
 - 🧑‍💼 Open for full-time/contract jobs
 
-### Contact:
+### Socials and CV:
 
   <a href="https://www.linkedin.com/in/mark-bartalos" >
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" width="32" height="32">
   </a>
-  <a href="mailto:bartalos86@gmail.com" >
-    <img alt="Mail" src="/icons/mail.png" width="32" height="32">
-  </a>
+
 
 
 <p align="left">
