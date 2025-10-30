@@ -10,14 +10,14 @@
 - 🧑‍💼 Open for full-time/contract jobs
 
 ### Contact:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mark-bartalos" target="_blank">
+
+  <a href="https://www.linkedin.com/in/mark-bartalos" >
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" width="32" height="32">
   </a>
-    <a href="mailto:bartalos86@gmail.com" target="_blank">
+  <a href="mailto:bartalos86@gmail.com" >
     <img alt="Mail" src="/icons/mail.png" width="32" height="32">
   </a>
-</p>
+
 
 <p align="left">
   <a href="/cv/mark-bartalos-cv.pdf">
