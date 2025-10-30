@@ -1,9 +1,11 @@
 ### Hi 👋🏼, my name is Mark!
 
 
-## I'm a master's university student at STU (Informatics and Information technologies) 👨🏼‍🎓
-- 👨🏼‍🚀 I'm currently learning Next.js
-- 💻 I work as a Full-Stack Developer
+## I'm a master's university student at Slovak University of Technology 👨🏼‍🎓
+
+- 📍 Based in Bratislava, Slovakia
+- 💻 Full-Stack Developer with 3+ years of professional experience
+- 👨🏼‍🎓 Bachelors degree in Computer Science in the field of cryptgraphy and blockchain
 - 🧑‍💼 Open for full-time/contract jobs
 
 
@@ -20,6 +22,8 @@
 <img align="left" alt="C#" height="32" width="32" src="/icons/csharp.png" />
 <img align="left" alt="Python" height="32" width="32" src="/icons/python.svg" />
 <img align="left" alt="Solidity" height="32" width="32" src="/icons/solidity.svg" />
+<img align="left" alt="Rust" height="32" width="32" src="/icons/rust.png" />
+
 
 </br>
 </br>
@@ -35,7 +39,7 @@
 <img align="left" alt=".NET" height="32" width="32" src="/icons/dotnet.png" />
 <img align="left" alt="Git" height="32" width="32" src="/icons/git.png" />
 <img align="left" alt="Next.js" height="32" width="32" src="/icons/next-js.svg" />
-
+<img align="left" alt="Angular" height="32" width="32" src="/icons/angular.png" />
 <!-- ### My projects
 - -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartalos86)](https://github.com/anuraghazra/github-readme-stats) -->
