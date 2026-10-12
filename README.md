@@ -1,12 +1,8 @@
 ### Hi 👋🏼, my name is Mark!
 
-
-## I'm a master's university student at Slovak University of Technology 👨🏼‍🎓
-
-
 - 📍 Based in Bratislava, Slovakia
 - 💻 Full-Stack Developer with 3+ years of professional experience
-- 👨🏼‍🎓 Bachelors degree in Computer Science in the field of cryptgraphy and blockchain
+- 👨🏼‍🎓 Master's degree in Computer Science in the field of cryptgraphy and blockchain
 - 🧑‍💼 Open for full-time/contract jobs
 
 ### CV:
